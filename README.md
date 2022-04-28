@@ -1,6 +1,3 @@
-LINK
-https://nganduntita1.github.io/Task-Tracker/
-
 ## Project setup
 
 ```
